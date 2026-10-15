@@ -207,15 +207,10 @@ git push -u origin main
 7. Record a 60–90 second demo: launch app → show metrics → run simulation → analyze a single event → export events.
 
 ## Screenshots checklist
-
-- Dataset preview and columns
-- Successful model training terminal output
-- Metrics panel and confusion matrix
-- Dashboard overview with event counts
-- Simulation completed with threats flagged
-- Manual event analysis result
-- CSV upload result
-- GitHub repository overview and commit history
+<img width="1366" height="768" alt="Screenshot 2026-10-14 194601" src="https://github.com/user-attachments/assets/b4fa4102-d86d-457d-a0a5-c1c743fcb017" />
+<img width="1366" height="768" alt="Screenshot 2026-10-14 194624" src="https://github.com/user-attachments/assets/068cf6af-4de2-4f44-8e89-3227169b8881" />
+<img width="1366" height="768" alt="Screenshot 2026-10-14 194653" src="https://github.com/user-attachments/assets/16f6eb42-62d4-4051-9e49-81d203c4c32c" />
+<img width="1366" height="768" alt="Screenshot 2026-10-14 194702" src="https://github.com/user-attachments/assets/d41508b6-3290-4a3f-b98a-0abc1ccdddf4" />
 
 ## Troubleshooting
 
